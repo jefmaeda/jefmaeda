@@ -27,6 +27,6 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 - Tools: `VsCode`
 
 #### Contacts
-- Email: jefersonmaeda@gmail.com
+- Email: jefersontamono@gmail.com
 - Linkedin: [jefmaeda](https://www.linkedin.com/in/jef-maeda-9a71bb268/)
 - Instagram: [@jefmaeda](https://www.instagram.com/jefmaeda/)
