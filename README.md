@@ -1,4 +1,4 @@
-### Hi there, I'm Jef Maeda 👋
+### Hi there, I'm Jeferson Maeda 👋
 
 <!--
 **jefmaeda/jefmaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,5 +31,5 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 
 #### Contacts
 - Email: jefersontamono@gmail.com
-- Linkedin: [jefmaeda](https://www.linkedin.com/in/jef-maeda-9a71bb268/)
+- Linkedin: [jefersonmaeda](https://www.linkedin.com/in/jef-maeda-9a71bb268/)
 - Instagram: [@jefmaeda](https://www.instagram.com/jefmaeda/)
