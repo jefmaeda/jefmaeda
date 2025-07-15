@@ -37,5 +37,5 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 
 #### Contacts
 - Email: jefersontamono@gmail.com
-- Linkedin: [jefersonmaeda](https://www.linkedin.com/in/jef-maeda-9a71bb268/)
+- Linkedin: [jefersonmaeda](https://www.linkedin.com/in/jefersonmaeda/)
 - Instagram: [@jefmaeda](https://www.instagram.com/jefmaeda/)
