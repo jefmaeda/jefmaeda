@@ -26,7 +26,13 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 - Version code control: `Git & Github`
 - Tools: `VsCode`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/jefmaeda)
+### 📈 Statistics
+<table>
+  <tr width="auto">
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" /></td>
+    <td><img width="70%" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" /></td>
+  </tr>
+</table>
 
 
 #### Contacts
