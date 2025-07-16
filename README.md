@@ -12,9 +12,9 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 - Tools: <img width="2.3%" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode" />
 
 ### 📈 Statistics
-  <div style="display: flex;">
-    <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" />
-    <img width="330px" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" />
+  <div style="display: flex; gap: 24px;">
+    <img width="381" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" />
+    <img width="430" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" />
   </div>
 
 
