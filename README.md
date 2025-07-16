@@ -4,12 +4,12 @@
 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br)
 
 #### Current stack
-- Main language: <img width="2.3%" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" />
-- Back-end: <img width="2.3%" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Nodejs" />
-- Front-end: <img width="10%" src="https://skillicons.dev/icons?i=react,html,css,js&theme=light" alt="react,html,css,js" />
-- Layout Design: <img width="2.3%" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" />
-- Version code control: <img width="5%" src="https://skillicons.dev/icons?i=git,github&theme=light" alt="git,github" />
-- Tools: <img width="2.3%" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode" />
+- <img width="4%" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" />  Main language
+- <img width="4%" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Nodejs" /> Back-end
+- <img width="16%" src="https://skillicons.dev/icons?i=react,html,css,js&theme=light" alt="react,html,css,js" /> Front-end
+- <img width="4%" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" /> Layout Design
+- <img width="9%" src="https://skillicons.dev/icons?i=git,github&theme=light" alt="git,github" /> Version code control
+- <img width="4%" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode" /> Tools
 
 ### 📈 Statistics
   <div style="display: flex; gap: 24px;">
