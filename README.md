@@ -1,38 +1,21 @@
 ### Hi there, I'm Jeferson Maeda 👋
 
-<!--
-**jefmaeda/jefmaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### About
 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br)
 
 #### Current stack
-- Main language: `Javascript`
-- Back-end: `Node.js`
-- Front-end: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
-- Layout Design: `Figma`
-- Version code control: `Git & Github`
-- Tools: `VsCode`
+- Main language: <img width="2.3%" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" />
+- Back-end: <img width="2.3%" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Nodejs" />
+- Front-end: <img width="10%" src="https://skillicons.dev/icons?i=react,html,css,js&theme=light" alt="react,html,css,js" />
+- Layout Design: <img width="2.3%" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" />
+- Version code control: <img width="5%" src="https://skillicons.dev/icons?i=git,github&theme=light" alt="git,github" />
+- Tools: <img width="2.3%" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode" />
 
 ### 📈 Statistics
-<table>
-  <tr width="auto">
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" /></td>
-    <td><img width="70%" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" /></td>
-  </tr>
-</table>
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" />
+  </div>
 
 
 #### Contacts
