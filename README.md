@@ -13,8 +13,8 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 
 ### 📈 Statistics
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" />
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" />
+    <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefmaeda&layout=compact&langs_count=8&theme=tokyonight" />
+    <img width="330px" src="https://github-readme-stats.vercel.app/api?username=jefmaeda&show_icons=true&theme=radical" />
   </div>
 
 
